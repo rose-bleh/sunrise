@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgb(212, 87, 65);
+}
+#container {
+    background-size: cover;
+  	width: 1800px;
+  	margin: 0 auto;
+    border-radius: 10px;
+  	height: 1000px;
+  	margin-top:10px;
+  	margin-bottom: 10px;
+  	position:relative;
+    border: solid #813737 2pt;
+    background-color: rgb(238, 147, 147);
+}
+#container2 {
+    background-size: cover;
+  	width: 1200px;
+  	margin: 0 auto;
+    border-radius: 10px;
+  	height: 900px;
+  	margin-top:10px;
+  	margin-bottom: 10px;
+  	position:relative;
+    border: solid #813737 2pt;
+    background-color: rgb(245, 182, 182);
+}
+ul {
+    font-size: larger;
+}
